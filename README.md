@@ -88,5 +88,5 @@ This project demonstrates SQL skills by analyzing a retail sales dataset using M
 
 **Ananya Jain**
 
-- LinkedIn: https://www.linkedin.com/in/ananya-jain-08193937b/
+- LinkedIn: www.linkedin.com/in/ananya-jain-analyst
 - GitHub: https://github.com/Ananyajain1506
